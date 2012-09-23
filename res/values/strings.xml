@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vk Photo Viewer</string>
+    <string name="logout">Logout</string>
+    <string name="connection_error">Error. Please check your internet connection.</string>
+    <string name="progress_dialog_loading_message">Loading. Please wait</string>
+
+</resources>
